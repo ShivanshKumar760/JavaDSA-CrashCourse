@@ -1,0 +1,3 @@
+Find The maximum and minimum number in an array of number 
+
+HINT:use Integer.MIN_VALUE and Integer.MAX_VALUE

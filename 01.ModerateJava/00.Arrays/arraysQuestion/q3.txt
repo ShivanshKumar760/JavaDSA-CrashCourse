@@ -1,0 +1,1 @@
+Take an array of number as input and check if it is an array of sorted in ascending order
