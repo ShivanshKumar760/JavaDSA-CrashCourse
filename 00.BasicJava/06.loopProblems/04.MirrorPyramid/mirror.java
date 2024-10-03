@@ -1,6 +1,6 @@
 public class mirror {
 	public static void main(String[] args) {
-		int row=10;
+		int row=4;
 		for(int rowNum=1;rowNum<=row;rowNum++)//5
 		{
 			for (int numStar=1;numStar<=rowNum ;numStar++ ) {

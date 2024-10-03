@@ -6,6 +6,9 @@ public class input
 	{
 		//to take input we need to initate a new Scanner class object with System.in as parameter
 		//to take input 
+		//C++ int x;
+		//cin>>x;
+		//in java we have something called as Scanner class
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a Number :");
 		int a = sc.nextInt();//is for interger
